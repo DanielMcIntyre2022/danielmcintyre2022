@@ -4,7 +4,11 @@ Hi 👋 My name is Daniel McIntyre
 Web Developer
 -------------
 
-My name is Daniel McIntyre and I am Web Developer! My tech-stack includes HTML5, CSS/SCSS, JavaScript (ES6) and React as well as experience implementing REST APIs and Firebase databases in applications. I also have proficiency and experience in git collaboration with team members. In addition to my technical background, I have over a decade of experience in the media and communications industry where I excelled in leading internal and external teams in completing communication and media-based projects. This experience has provided transferable leadership and team-work skills, in addition to the attention to detail required in a web-developer role. I thrive in challenging environments, and I am extremely passionate about furthering my skills in web development. This includes building innovative and exciting solutions in a collaborative team environment.
+My name is Daniel McIntyre and I am Web Developer! 
+
+My tech-stack includes HTML5, CSS/SCSS, JavaScript (ES6) and React as well as experience implementing REST APIs and Firebase databases in applications. I also have proficiency and experience in git collaboration with team members. 
+
+In addition to my technical background, I have over a decade of experience in the media and communications industry where I excelled in leading internal and external teams in completing communication and media-based projects. This experience has provided transferable leadership and team-work skills, in addition to the attention to detail required in a web-developer role. I thrive in challenging environments, and I am extremely passionate about furthering my skills in web development. This includes building innovative and exciting solutions in a collaborative team environment.
 
 *   🌍  I'm based in Toronto
 
