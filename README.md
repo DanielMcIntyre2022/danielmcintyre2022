@@ -6,7 +6,7 @@ Web Developer
 
 My name is Daniel McIntyre and I am Web Developer! 
 
-My tech-stack includes HTML5, CSS/SCSS, JavaScript (ES6) and React as well as experience implementing REST APIs and Firebase databases in applications. I also have proficiency and experience in git collaboration with team members. 
+I have front-end skills in HTML, CSS, JavaScript, React and cloud-based database storage systems such as Firebase, in addition to knowledge of back-end server building with Node JS and express. I build the responsive and accessible websites and applications of tomorrow. 
 
 In addition to my technical background, I have over a decade of experience in the media and communications industry where I excelled in leading internal and external teams in completing communication and media-based projects. This experience has provided transferable leadership and team-work skills, in addition to the attention to detail required in a web-developer role. 
 
