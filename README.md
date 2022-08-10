@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel McIntyre
 Web Developer
 -------------
 
-My name is Daniel McIntyre and I am Web Developer! 
+My name is Daniel McIntyre and I am Full-Stack Web Developer! 
 
 I have front-end skills in HTML, CSS, JavaScript, React and cloud-based database storage systems such as Firebase, in addition to knowledge of back-end server building with Node JS, Express and MongoDB. I build the responsive and accessible websites and applications of tomorrow. 
 
