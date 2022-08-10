@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel McIntyre
 ================================
 
-Web Developer
+Full-Stack Web Developer
 -------------
 
 My name is Daniel McIntyre and I am Full-Stack Web Developer! 
