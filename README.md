@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel McIntyre</h1>
 <h3 align="center">A Full-Stack Web and Applications Developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Python, Ruby**
-
 - 👨‍💻 All of my projects are available at [https://www.danielcodes.ca/](https://www.danielcodes.ca/)
 
 - 📫 How to reach me **daniel-mcintyre@hotmail.com**
