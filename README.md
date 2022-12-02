@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel McIntyre</h1>
-<h3 align="center">A Full-Stack Web and Mobile Applications Developer</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
 👨‍💻 All of my projects are available at https://www.danielcodes.ca/
   
